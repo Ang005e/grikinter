@@ -1,0 +1,7 @@
+Lib
+grikinter.egg-info
+grikinter-0.1.dist-info
+build
+__pycache__
+pyvenv.cfg
+test.py
