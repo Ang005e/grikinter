@@ -1,0 +1,5 @@
+setup.py
+grikinter.egg-info/PKG-INFO
+grikinter.egg-info/SOURCES.txt
+grikinter.egg-info/dependency_links.txt
+grikinter.egg-info/top_level.txt
